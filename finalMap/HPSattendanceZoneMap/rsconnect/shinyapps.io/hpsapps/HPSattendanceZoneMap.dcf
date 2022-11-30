@@ -1,0 +1,13 @@
+name: HPSattendanceZoneMap
+title: HPSattendanceZoneMap
+username:
+account: hpsapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6766694
+bundleId: 6210273
+url: https://hpsapps.shinyapps.io/HPSattendanceZoneMap/
+when: 1660741485.4819
+lastSyncTime: 1660741485.4819
+asMultiple: FALSE
+asStatic: FALSE
